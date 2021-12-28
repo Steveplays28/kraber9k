@@ -1,4 +1,5 @@
 WeaponData
 {
-	"ammo_no_remove_from_clip"                        "1"
+	"ammo_clip_size"					"9999"
+	"ammo_no_remove_from_clip"			"1"
 }
