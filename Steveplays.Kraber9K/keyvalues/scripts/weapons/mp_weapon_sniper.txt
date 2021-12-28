@@ -1,45 +1,4 @@
 WeaponData
 {
-	"ammo_clip_size"   								"99999"
 	"ammo_no_remove_from_clip"                        "1"
-
-	// Spread
-	"spread_stand_hip" 								"0.0"
-	"spread_stand_hip_run" 							"0.0"
-	"spread_stand_ads"  							"0.0"
-	"spread_crouch_hip"								"0.0"
-	"spread_crouch_ads"  							"0.0"
-	"spread_air_hip"	   							"0.0"
-	"spread_air_ads"   								"0.0"
-
-	// View Kick
-	//"viewkick_spring" 								""
-
-	//"viewkick_pitch_base" 							"0.0"
-	//"viewkick_pitch_random"   						"0.0"
-	//"viewkick_pitch_softScale"						"0.0"
-	//"viewkick_pitch_hardScale"						"0.0"
-
-	//"viewkick_yaw_base"   							"0.0"
-	//"viewkick_yaw_random" 							"0.0"
-	//"viewkick_yaw_softScale"  						"0.0"
-	//"viewkick_yaw_hardScale"  						"0.0"
-
-	//"viewkick_roll_base"  							"0.0"
-	//"viewkick_roll_randomMin" 						"0.0"
-	//"viewkick_roll_randomMax" 						"0.0"
-	//"viewkick_roll_softScale" 						"0.0"
-	//"viewkick_roll_hardScale" 						"0.0"
-
-	//"viewkick_hipfire_weaponFraction" 				"0.0"
-	//"viewkick_hipfire_weaponFraction_vmScale" 		"0.0"
-	//"viewkick_ads_weaponFraction" 					"0.0"
-	//"viewkick_ads_weaponFraction_vmScale" 			"0.0"
-
-	//"viewkick_perm_pitch_base" 						"0.0"
-	//"viewkick_perm_pitch_random"   					"0.0"
-	//"viewkick_perm_pitch_random_innerexclude"		"0.0"
-	//"viewkick_perm_yaw_base"   						"0.0"
-	//"viewkick_perm_yaw_random" 						"0.0"
-	//"viewkick_perm_yaw_random_innerexclude" 		"0.0"
 }
