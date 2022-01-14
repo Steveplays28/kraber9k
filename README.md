@@ -1,5 +1,5 @@
 # Steveplays.Kraber9K
-A mod for kraber only servers, which gives the kraber infinite ammo.
+A mod for **Titanfall 2 Northstar client** kraber only servers, which gives the kraber infinite ammo.
 
 This mod is required on both the client and the server.
 
