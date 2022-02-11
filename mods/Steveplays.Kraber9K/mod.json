@@ -1,0 +1,11 @@
+{
+	"Name": "Steveplays.Kraber9K",
+	"Description": "A Northstar mod made for Kraber9K servers. Thunderstore compatible. Required on: server & client.\nAdds infinite ammo to the kraber.",
+	"Authors": ["Steveplays28"],
+	"Contacts": [
+		"Steveplays#9659 (Discord)",
+		"Steveplays28 (Github/Twitter/Reddit)"
+	],
+	"Version": "1.3.0",
+	"RequiredOnClient": true
+}
