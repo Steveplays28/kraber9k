@@ -10,7 +10,7 @@ Steveplays.Kraber9K
 [![GitHub](https://img.shields.io/github/issues/Steveplays28/Kraber9K)](https://github.com/Steveplays28/kraber9k/issues)
 [![GitHub](https://img.shields.io/github/issues-pr/Steveplays28/Kraber9K)](https://github.com/Steveplays28/kraber9k/pulls)
 
-[![GitHub](https://img.shields.io/badge/Thunderstore-yes-brightgreen?labelColor=375A7F)](https://northstar.thunderstore.io/package/Steveplays28/Kraber9K)
+[![GitHub](https://img.shields.io/badge/Thunderstore-yes-brightgreen?labelColor=375A7F)](https://northstar.thunderstore.io/package/Steveplays/Kraber9K)
 ![GitHub](https://img.shields.io/badge/Server%20side-yes-brightgreen?labelColor=375A7F)
 ![GitHub](https://img.shields.io/badge/Client%20side-yes-brightgreen?labelColor=375A7F)
 </h1>
@@ -32,12 +32,12 @@ Steveplays.Kraber9K is a Northstar mod made for Kraber9K servers, which gives th
 
 ### Thunderstore
 
-1. Go to [the Thunderstore mod page](https://northstar.thunderstore.io/package/Steveplays28/Kraber9K/)
+1. Go to [the Thunderstore mod page](https://northstar.thunderstore.io/package/Steveplays/Kraber9K/)
 2. Press "Install with mod manager"
 
 ### Manual installation
 
-1. Download the latest release from [GitHub](https://github.com/Steveplays28/kraber9k/releases/latest) or [Thunderstore](https://northstar.thunderstore.io/package/Steveplays28/Kraber9K/)
+1. Download the latest release from [GitHub](https://github.com/Steveplays28/kraber9k/releases/latest) or [Thunderstore](https://northstar.thunderstore.io/package/Steveplays/Kraber9K/)
 2. Unzip `Steveplays.Kraber9K.zip`
 3. Drag the unzipped folder into `Titanfall2/R2Northstar/mods/`
 
@@ -55,7 +55,7 @@ A: This mod is required on both the server side and the client side. See the bad
 
 ## Roadmap
 
-- [x] Port mod to [Thunderstore](https://northstar.thunderstore.io) ([completed](https://northstar.thunderstore.io/package/Steveplays28/Kraber9K/) on 11/02/2022)
+- [x] Port mod to [Thunderstore](https://northstar.thunderstore.io) ([completed](https://northstar.thunderstore.io/package/Steveplays/Kraber9K) on 11/02/2022)
 - [ ] Display infinity symbol on the kraber's physical ammo counter (ETA: unknown)
 
 
